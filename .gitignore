@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.DS_Store
+# الداتا الخام الكبيرة مش بتترفع (الملف المضغوط data/olist_features.csv.gz هو اللي بيترفع)
+data/olist_features.csv
+data/olist_geolocation_dataset.csv
+data/olist_master.csv
+data/olist_clean.csv
